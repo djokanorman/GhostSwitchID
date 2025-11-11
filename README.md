@@ -1,3 +1,6 @@
+
+<img width="1024" height="1024" alt="Copilot_20251111_202628" src="https://github.com/user-attachments/assets/abb12ee7-3018-4d12-bddd-8a636ead4fd1" />
+
 # GhostSwitchID
 GhostSwitchID is a lightweight Windows tool that sends MIDI CC messages via LoopMIDI when pressing Ctrl+Shift+F1–F12. It runs in the system tray, starts with Windows, and enables automatic preset switching in Sonarworks SoundID Reference or any MIDI-compatible software. No installation or coding required.
 
