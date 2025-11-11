@@ -81,6 +81,9 @@ The icon is embedded, and startup registry uses the current path automatically.
 
 ---
 
+> This tool was featured on Reddit and received positive feedback from real SoundID users.  
+> If you're tired of manual preset switching, GhostSwitchID is your invisible solution.
+
 ## 👨‍💻 Developer
 
 GhostSwitchID is built by **Okan Orman**, a technical visionary focused on automation and seamless user experience in music production.
